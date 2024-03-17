@@ -27,4 +27,4 @@ To get started with VSBlog, you'll need .NET 8.0 and a SQLite database. Once you
 
 ## License
 
-VSBlog is licensed under the [MIT License](#).
+[MIT License](LICENSE)
