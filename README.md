@@ -25,12 +25,6 @@ This architecture has several benefits:
 
 To get started with VSBlog, you'll need .NET 8.0 and a SQLite database. Once you have these, you can run the application using the `dotnet run` command.
 
-For more detailed instructions, please refer to the [Getting Started Guide](#).
-
-## Contributing
-
-Contributions to VSBlog are welcome! Please see the [Contributing Guide](#) for more information.
-
 ## License
 
 VSBlog is licensed under the [MIT License](#).
